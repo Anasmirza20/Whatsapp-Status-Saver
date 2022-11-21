@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <!-- <color name="purple_200">#878787</color>
+    <color name="color_secondary">#353535</color>
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryVariant">#000000</color>
+    <color name="teal_200">#FFC107</color>
+    <color name="teal_700">#FFC107</color>-->
+    <color name="dark_theme_color">#2E2E2E</color>
+<!--    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="app_bg_color">#FFFFFFFF</color>-->
+    <color name="colorWhite30">#4DFFFFFF</color>
+    <color name="opposite_button_color">#4DFFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="light_text_color">#7E000000</color>
+    <color name="text_grey">#B6B6B6</color>
+<!--    <color name="edit_text_profile_border_color">#47453C</color>-->
+    <color name="dialog_bg">#3A2F1A</color>
+    <color name="stroke_color">#424242</color>
+    <color name="placeholder_color">#80FFFFFF</color>
+<!--    <color name="colorText">#272727</color>
+    <color name="hint_color">#D5D5D5</color>-->
+    <color name="sheet_color">#252525</color>
+
+
+
+    <color name="purple_200">#EB454545</color>
+    <color name="color_secondary">#353535</color>
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryVariant">#BF1111</color>
+    <color name="teal_200">#FFC107</color>
+    <color name="teal_700">#FFC107</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="app_bg_color">#000000</color>
+    <color name="edit_text_profile_border_color">#3A3A3A</color>
+
+ <color name="colorText">#FFFFFF</color>
+ <color name="hint_color">#979797</color>
+
+</resources>

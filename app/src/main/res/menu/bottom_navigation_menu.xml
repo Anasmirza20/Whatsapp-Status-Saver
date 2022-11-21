@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/whatsapp_nav"
+        android:enabled="true"
+        android:icon="@drawable/ic_whatsapp"
+        android:title="@string/statuses" />
+
+    <item
+        android:id="@+id/download_nav"
+        android:enabled="true"
+        android:icon="@drawable/ic_download"
+        android:title="@string/downloads" />
+
+</menu>

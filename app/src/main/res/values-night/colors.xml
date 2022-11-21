@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#EB454545</color>
+    <color name="color_secondary">#353535</color>
+    <color name="colorPrimary">#0C80DC</color>
+    <color name="colorPrimaryVariant">#BF1111</color>
+    <color name="teal_200">#2196F3</color>
+    <color name="teal_700">#2196F3</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="app_bg_color">#000000</color>
+    <color name="edit_text_profile_border_color">#3A3A3A</color>
+
+</resources>

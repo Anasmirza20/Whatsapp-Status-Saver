@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="close_icon_size">32dp</dimen>
+    <dimen name="reels_icon_size">28dp</dimen>
+    <dimen name="reel_profile_size">40dp</dimen>
+    <dimen name="like_lottie_icon_size">78dp</dimen>
+    <dimen name="profile_pic_size">70dp</dimen>
+    <dimen name="comment_profile_size">30dp</dimen>
+</resources>

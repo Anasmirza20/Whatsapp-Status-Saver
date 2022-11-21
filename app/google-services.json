@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "963406464943",
+    "project_id": "whatsapp-status-download-6963b",
+    "storage_bucket": "whatsapp-status-download-6963b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963406464943:android:529b085495292a138b515a",
+        "android_client_info": {
+          "package_name": "com.whatsapp.reelsfiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963406464943-pj53o8icavcctc7gu20hj4p0687em4s8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whatsapp.reelsfiz",
+            "certificate_hash": "849d43c2e0247a2648c614ca482109b9f2355558"
+          }
+        },
+        {
+          "client_id": "963406464943-p28okd840kc53j7m1b41eqe3fd7um82s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoSfOmF1ZwGMoC4sDwzXOJeiH5y1x2FDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963406464943-p28okd840kc53j7m1b41eqe3fd7um82s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
