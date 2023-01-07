@@ -16,7 +16,7 @@
     <color name="light_text_color">#7E000000</color>
     <color name="text_grey">#B6B6B6</color>
 <!--    <color name="edit_text_profile_border_color">#47453C</color>-->
-    <color name="dialog_bg">#3A2F1A</color>
+    <color name="dialog_bg">#1A2D3A</color>
     <color name="stroke_color">#424242</color>
     <color name="placeholder_color">#80FFFFFF</color>
 <!--    <color name="colorText">#272727</color>
