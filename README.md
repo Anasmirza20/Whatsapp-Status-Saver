@@ -45,17 +45,10 @@ If you'd like to contribute to this project, please follow these guidelines:
 
 6. Please ensure your code follows the coding style and conventions of the project.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-We'd like to thank the open-source community for their contributions to the libraries and tools used in this project.
 
 ## Contact
 
-If you have any questions or need assistance, feel free to contact us at [your.email@example.com](mailto:your.email@example.com).
+If you have any questions or need assistance, feel free to contact us at [anasmirza912@gmail.com](mailto:anasmirza912@gmail.com).
 
 Happy Status Saving!
 
